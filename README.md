@@ -12,9 +12,10 @@
 
 ## 🌱 Atualmente estudando :
 
-*🔹 Fundamentos de algoritmos
-*🔹 Boas práticas com HTML e CSS
-*🔹 Desenvolvimento de páginas web responsivas
+🔹 Fundamentos de algoritmos
+🔹 Boas práticas com HTML e CSS
+🔹 Processos de software com metodologias ágeis
+🔹 Análise de dados utilizando a linguagem Python
 
 ## 📫 Como me encontrar :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-richard-jorge-b88811264)
