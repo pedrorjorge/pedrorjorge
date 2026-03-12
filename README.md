@@ -6,11 +6,11 @@
 
 * 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Instituto Federal de São Paulo)
 * 🧠 Em busca de conhecimento sobre programação
-* 💻 Conhecimento em Python, C, HTML5 e CSS3
+* 💻 Conhecimento em Python, JavaScript, HTML5 e CSS3
 * ⚙️ Curioso por entender como as coisas funcionam por trás do código
 * 📚 Sempre em busca de aprender novas tecnologias e boas práticas de desenvolvimento
 
-## 🌱 Atualmente estudando:
+## Atualmente estudando:
 
 🔹 Fundamentos de algoritmos
 🔹 Boas práticas com HTML e CSS
